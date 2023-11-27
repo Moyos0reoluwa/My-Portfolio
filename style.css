@@ -139,6 +139,7 @@ span {
 
 .home-img img {
     width: 35vw;
+    height: auto;
     margin-right: -20px;
     opacity: 0;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
