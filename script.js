@@ -11,7 +11,7 @@ menuIcon.onclick = () => {
 
 
 var typed = new Typed(".multiple-text", {
-    strings: ['Graphic Designer', 'Chartered Accountant', 'Frontend Developer', 'Marketer','Financial Analyst'],
+    strings: ['UI/UX Designer', 'Chartered Accountant', 'Software Engineer', 'Marketer','Financial Analyst'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -54,7 +54,7 @@ window.onscroll = () => {
 // Scroll reveal
 
 ScrollReveal({ 
-    reset: true,
+    reset: false,
     distance: '80px',
     duration: 2000,
     delay: 200
